@@ -1,3 +1,7 @@
 This is text file
 
 This is next text
+
+this is third line
+
+this is 4th line

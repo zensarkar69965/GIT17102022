@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is text file
 
 This is next text
@@ -5,3 +6,6 @@ This is next text
 this is third line
 
 this is 4th line
+=======
+This is text file
+>>>>>>> parent of ad14f97... added
